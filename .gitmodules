@@ -1,0 +1,3 @@
+[submodule "subui"]
+	path = subui
+	url = https://github.com/seansd457/sub_ui
